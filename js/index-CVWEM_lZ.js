@@ -14632,7 +14632,7 @@ G.formToJSON = (e) => fm(y.isHTMLForm(e) ? new FormData(e) : e);
 G.getAdapter = vm.getAdapter;
 G.HttpStatusCode = jl;
 G.default = G;
-const Xc = "https://mvp.wf",
+const Xc = "https://obscure.fun",
   Xa = {
     getUser: (e) => `https://api.lanyard.rest/v1/users/${e}`,
     postDiscordUsers: `${Xc}/discord-users`,
@@ -14693,9 +14693,16 @@ const Xc = "https://mvp.wf",
         { name: "Instagram", url: "https://instagram.com/k1dscene" },
       ],
     },
-    "629871510680633374": {
+    "1198084527206170678": {
       badges: [],
-      bio: "mvp",
+      bio: "",
+      redesSociais: [
+        { name: "Instagram", url: "https://instagram.com/neymarjr" },
+      ],
+    },
+    "940259093946466345": {
+      badges: [],
+      bio: "",
       redesSociais: [
         { name: "Instagram", url: "https://instagram.com/dunaaaaaaaaaaaaaaaaaaaaaaaaa" },
         {
